@@ -1,0 +1,22 @@
+{
+  "name": "xfeng/aliyun-text-green",
+  "description": "敏感词过滤",
+  "keywords": [
+
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "xfeng",
+      "email": "457143680@qq.com"
+    }
+  ],
+  "require": {
+  },
+  "autoload": {
+    "psr-0": {
+      "xfeng\\aliyuncs\\": "src/"
+    },
+    "files": ["aliyuncs/aliyun-php-sdk-core/Config.php"]
+  }
+}
