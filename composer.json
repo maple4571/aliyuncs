@@ -17,6 +17,6 @@
     "psr-0": {
       "xfeng\\aliyuncs\\": "src/"
     },
-    "files": ["aliyuncs/aliyun-php-sdk-core/Config.php"]
+    "files": ["src/aliyuncs/aliyun-php-sdk-core/Config.php"]
   }
 }
